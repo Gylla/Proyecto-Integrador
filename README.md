@@ -3,7 +3,7 @@
 
 La propuesta aplica CRISP-DM al análisis de un conjunto de actividades públicas y anónimas extraídas de Strava, registradas entre abril de 2020 y noviembre de 2022. Estas actividades incluyen métricas como distancia, tiempo en movimiento, velocidad y frecuencia cardíaca. A diferencia de los paneles individuales de la plataforma, el objetivo es ofrecer una visión agregada que revele patrones colectivos y tendencias generales.
 
-Se empleará Python (pandas, matplotlib) para la limpieza, estadística descriptiva y exploración de datos, y Power BI para la creación de dashboards interactivos. Cada fase será diseñada para garantizar la trazabilidad y reproducibilidad del análisis.
+Se empleará Python (pandas, matplotlib) para la limpieza, estadística descriptiva y exploración de datos, y Power BI o Looker Studio para la creación de dashboards interactivos. Cada fase será diseñada para garantizar la trazabilidad y reproducibilidad del análisis.
 
 A futuro, este marco soportará la creación de paneles dinámicos personalizables y el desarrollo de modelos predictivos, consolidando un producto analítico útil para entornos deportivos y de salud.
 
