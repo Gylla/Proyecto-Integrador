@@ -7,7 +7,9 @@ Se empleará Python (pandas, matplotlib) para la limpieza, estadística descript
 
 A futuro, este marco soportará la creación de paneles dinámicos personalizables y el desarrollo de modelos predictivos, consolidando un producto analítico útil para entornos deportivos y de salud.
 
+## Informe 
 
+ - [Looker Studio](https://lookerstudio.google.com/reporting/9f3df334-d1d0-41b3-80a9-1581fa4bc98b)
 
 ![Logo](https://cdn.discordapp.com/attachments/1161016030332727438/1359387175782711316/Logo_Tester_Ace.png?ex=681d86f6&is=681c3576&hm=d80c2dd12455d70994e8939d7ddb5390eb5c7cbac024b604b14bacd70c8f50ed&)
 
